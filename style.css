@@ -53,3 +53,12 @@ button:active {
 	font-size: 40px;
 	font-weight: bold;
 }
+@media (max-width: 800px) {
+	button{
+		font-size: 18px;
+	padding: 10px;
+	}
+	#audio{
+		font-size: 35px;
+	}
+}
